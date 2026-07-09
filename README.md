@@ -35,10 +35,7 @@ I enjoy designing serverless systems, ETL pipelines, and APIs that are reliable,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-#### GitHub Stats
-
-![Arpana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpanaBM&show_icons=true&theme=tokyonight)
 
 #### Connect
 
-[LinkedIn](#www.linkedin.com/in/arpana-b-m-5227b7200) · [Email](#arpanabindumanoj@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arpana-b-m-5227b7200) · [Email](mailto:arpanabindumanoj@gmail.com)
